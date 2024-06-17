@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "judul": "Pengertian Kesehatan Mental",
+        "deskripsi": "Kesehatan jiwa atau sebutan lainnya kesehatan mental adalah kesehatan yang berkaitan dengan kondisi emosi, kejiwaan, dan psikis seseorang.",
+        "photo": "photo1",
+        "url": "https://www.halodoc.com/kesehatan/kesehatan-mental"
+    },
+    {
+        "id": 2,
+        "judul": "9 Cara Sederhana Menjaga Kesehatan Mental",
+        "deskripsi": "Beberapa langkah sederhana bisa diterapkan untuk meningkatkan kualitas kesehatan mental. Dengan melakukan perubahan ini, maka dapat dipastikan hal ini memengaruhi semua aspek kehidupan.",
+        "photo": "photo2",
+        "url": "https://www.halodoc.com/artikel/9-cara-sederhana-menjaga-kesehatan-mental?utm_source=google&utm_medium=cpc&utm_campaign=&utm_content=151268030042&utm_term=&gad_source=1&gclid=CjwKCAjwmrqzBhAoEiwAXVpgouyCGnqLAUHbD2yRq1p-VQl6qctrPmu2q9CI_EFFylIXxHbwaUXwMBoCwkkQAvD_BwE"
+    },
+    {
+        "id": 3,
+        "judul": "Minimnya Kesadaran Masyarakat terhadap Mental Health",
+        "deskripsi": "Saat ini, kesehatan jiwa menjadi masalah yang belum dapat sepenuhnya diselesaikan, baik tingkat global maupun nasional. Terlebih adanya pandemi Covid-19 menyebabkan berbagai dampak negatif seperti peningkatan masalah mental dan gangguan jiwa.",
+        "photo": "photo3",
+        "url": "https://sardjito.co.id/2022/03/09/minimnya-kesadaran-masyarakat-terhadap-mental-health/"
+    },
+    {
+        "id": 4,
+        "judul": "5 Manfaat Melamun",
+        "deskripsi": "Melamun diartikan sebagai kondisi pikiran sedang melayang yang manjadi pengalihan sementara dari dunia sebenarnya.",
+        "photo": "photo4",
+        "url": "https://medium.com/@refanggarayyan/5-manfaat-melamun-untuk-kesehatan-mental-yang-jarang-disadari-4ea3cd7c39a1"
+    },
+    {
+        "id": 5,
+        "judul": "Gen Z, Kesehatan Mental, dan Media Sosial di Era Sekarang",
+        "deskripsi": "Permasalahan mengenai kesehatan mental pada gen Z dibuktikan oleh oleh data survei yang dilakukan oleh McKinsey Health Institute terhadap 41.960",
+        "photo": "photo5",
+        "url": "https://medium.com/@refanggarayyan/gen-z-kesehatan-mental-dan-media-sosial-di-era-sekarang-86be354d8d04"
+    },
+    {
+        "id": 6,
+        "judul": "Perbedaan Psikiater dan Psikolog dalam Penanganan Masalah Kesehatan Mental",
+        "deskripsi": "Psikolog atau psikiater adalah dua pilihan yang bisa digunakan oleh individu untuk meminta bantuan ketika sedang mengalami permasalahan mental atau psikis.",
+        "photo": "photo6",
+        "url": "https://medium.com/@refanggarayyan/perbedaan-psikiater-dan-psikolog-dalam-penanganan-masalah-kesehatan-mental-7fb6b0da21ce"
+    },
+    {
+        "id": 7,
+        "judul": "Seni dan Kesehatan Mental",
+        "deskripsi": "Dunia tentu mengenal nama-nama besar seperti pelukis sebuah lukisan terkenal yang diberi nama Starry Night karya Vincent van Gogh, kemudian penyair dan novelis Amerika Sylvia Plath yang menerbitkan novel The Bell.",
+        "photo": "photo7",
+        "url": "https://medium.com/@bungawidrayani8/seni-dan-kesehatan-mental-ketika-kreativitas-berkembang-di-tengah-tantangan-jiwa-93407f480860"
+    },
+    {
+        "id": 8,
+        "judul": "Penting Memiliki Hobi Untuk Kesehatan Mental",
+        "deskripsi": "Betapa pentingnya kita sebagai manusia untuk memiiliki hobi demi kesehatan mental kita. Hobi apapun itu seperti memasak, fotografi, menulis, gambar, memancing, asalkan hobi itu berkembang dan membuat kita semangat dan senang.",
+        "photo": "photo8",
+        "url": "https://medium.com/@ilfiwahda/penting-memiliki-hobi-untuk-kesehatan-mental-23acedded2c6"
+    },
+    {
+        "id": 9,
+        "judul": "5 Lessons From Marcus Aurelius’ Meditations",
+        "deskripsi": "Enter, the annotated copy of Marcus Aerulius’ Meditations. My grandfather’s love language is books, and at our most recent Barnes and Noble outing he bought me Robin Waterfield’s Annotated Edition of Meditations.",
+        "photo": "photo9",
+        "url": "https://medium.com/masterpieces-in-progress/5-lessons-from-marcus-aurelius-meditations-that-have-drastically-improved-my-mental-health-a4c7f6712147"
+    },
+    {
+        "id": 10,
+        "judul": "Social Media and Its Impact on Women’s Mental Health",
+        "deskripsi": "It started with a simple post — an innocent photo shared on a quiet Sunday afternoon — but I never would have anticipated the whirlwind that followed.",
+        "photo": "photo10",
+        "url": "https://medium.com/@mandy.sk.poland/social-media-and-its-impact-on-womens-mental-health-a-double-edged-sword-d690abf8559a"
+    }
+]
